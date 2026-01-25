@@ -1,5 +1,5 @@
-# Path-Planning-Based-on-a-One-Shot-Sampling-Skeleton-Map
-conda create -n skelUnet python=3.10
+# Path-Planning-Based-on-a-One-Shot-Sampling-Skeleton-Map\\
+conda create -n skelUnet python=3.10\\
 conda activate skelUnet
 conda install numpy
 conda install matplotlib
