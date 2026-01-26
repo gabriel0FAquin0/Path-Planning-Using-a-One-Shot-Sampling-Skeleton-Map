@@ -1,12 +1,15 @@
 # Path-Planning-Based-on-a-One-Shot-Sampling-Skeleton-Map
 
 REQUIRENMENTS 
+
 Conda (anaconda o miniconda)
 
 INSTRUCTION 
 
 1.- Clone conda environment.
-  environment.yml
+  conda env create -f environment.yml
+
+  conda activate <environment name>
 
 2.- Unzip the folders.
   64x64_validation250_v2.zip
