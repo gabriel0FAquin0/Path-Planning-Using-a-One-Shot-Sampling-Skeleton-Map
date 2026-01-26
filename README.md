@@ -7,6 +7,8 @@ Conda (anaconda o miniconda)
 INSTRUCTION 
 
 1.- Clone conda environment.
+
+
   conda env create -f environment.yml
 
   conda activate <environment name>
