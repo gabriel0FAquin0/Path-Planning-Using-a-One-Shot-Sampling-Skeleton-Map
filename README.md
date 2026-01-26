@@ -1,4 +1,4 @@
-# Path-Planning-Based-on-a-One-Shot-Sampling-Skeleton-Map
+# Path-Planning-Using-a-One-Shot-Sampling-Skeleton-Map
 
 REQUIRENMENTS 
 
