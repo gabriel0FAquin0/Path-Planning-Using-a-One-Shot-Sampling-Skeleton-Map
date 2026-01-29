@@ -1,16 +1,18 @@
 # Path-Planning-Using-a-One-Shot-Sampling-Skeleton-Map
 
-#### Manuscript ID: IEEE LATAM Submission ID:  
-#### Authors
+## Manuscript ID: IEEE LATAM Submission ID:  
+## Authors
 
 Gabriel Omar Flores-Aquino, Octavio Gutierrez-Frias, Juan Irving Vasquez (Author)
-
-REQUIRENMENTS 
+#---------------------------------------------------------------------------------
+## REQUIRENMENTS 
 
 Conda (anaconda o miniconda)
 
 INSTRUCTION 
-
+\begin{itemize}
+\item{1.-} 
+\end{itemize}
 1.- Clone conda environment.
 
   conda env create -f environment.yml
