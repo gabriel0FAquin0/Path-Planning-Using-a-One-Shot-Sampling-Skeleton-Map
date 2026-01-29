@@ -1,5 +1,7 @@
 # Path-Planning-Using-a-One-Shot-Sampling-Skeleton-Map
 
+#Manuscript ID: IEEE LATAM Submission ID:  
+
 REQUIRENMENTS 
 
 Conda (anaconda o miniconda)
