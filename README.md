@@ -16,7 +16,8 @@ Conda (anaconda o miniconda)
 
 This repository contains all scripts required to reproduce the results presented in the article. You can use the following table as a guide.  
 
-| Section      | Folder/Script   | Description                            |
-| ------------ | --------------- | -------------------------------------- |
-| III. A.      | Dataset         | Dataset to trainning and test          |
-| III. B.      | SkelUnet        | SkelUnet neuronal network architecture |
+| Section      | Folder/Script       | Description                            |
+| ------------ | ------------------- | -------------------------------------- |
+| III. A.      | Dataset             | Dataset to trainning and test          |
+| III. B.      | ANN-SkelUnet        | SkelUnet neuronal network architecture |
+| III. C.      | SkelUnet-OSS        | SkelUnet One-Shot-Sampling methodology |
