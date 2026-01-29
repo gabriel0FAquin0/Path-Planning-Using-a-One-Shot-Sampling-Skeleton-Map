@@ -6,8 +6,8 @@ Gabriel Omar Flores-Aquino, Octavio Gutierrez-Frias, Juan Irving Vasquez
 
 ## REQUIRENMENTS 
 
-Conda (anaconda o miniconda)
-
+-Conda (anaconda o miniconda)  
+-Installation of PyTorch with GPU for training SkelUent
 ## INSTRUCTION 
   
 1.- Clone conda environment.    
