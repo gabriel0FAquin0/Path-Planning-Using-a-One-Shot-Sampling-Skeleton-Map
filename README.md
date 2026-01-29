@@ -3,20 +3,14 @@
 ## Manuscript ID: IEEE LATAM Submission ID:  
 ## Authors
 
-Gabriel Omar Flores-Aquino, Octavio Gutierrez-Frias, Juan Irving Vasquez (Author)
-# ---------------------------------------------------------------------------------
+Gabriel Omar Flores-Aquino, Octavio Gutierrez-Frias, Juan Irving Vasquez
+
 ## REQUIRENMENTS 
 
 Conda (anaconda o miniconda)
 
 ## INSTRUCTION 
-$$
-\begin{itemize}
-\item{1.-} 
-\end{itemize}
-$$
-1.- Clone conda environment.
-
+1.- Clone conda environment.  
   conda env create -f environment.yml
 
   conda activate <environment name>
