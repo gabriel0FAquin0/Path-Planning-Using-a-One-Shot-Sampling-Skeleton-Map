@@ -1,7 +1,6 @@
 # Path-Planning-Using-a-One-Shot-Sampling-Skeleton-Map
 
-### Manuscript: IEEE LATAM Submission 
-### ID: 10253 
+### Manuscript: IEEE LATAM Submission ID: 10253 
 ### Authors: 
 Gabriel Omar Flores-Aquino, Octavio Gutierrez-Frias, Juan Irving Vasquez
 
