@@ -4,15 +4,17 @@
 ## Authors
 
 Gabriel Omar Flores-Aquino, Octavio Gutierrez-Frias, Juan Irving Vasquez (Author)
-#---------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
 ## REQUIRENMENTS 
 
 Conda (anaconda o miniconda)
 
-INSTRUCTION 
+## INSTRUCTION 
+$$
 \begin{itemize}
 \item{1.-} 
 \end{itemize}
+$$
 1.- Clone conda environment.
 
   conda env create -f environment.yml
