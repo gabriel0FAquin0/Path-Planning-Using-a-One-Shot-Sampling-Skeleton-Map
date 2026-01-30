@@ -19,7 +19,7 @@ This repository contains all scripts required to reproduce the results presented
 | Section      | Folder/Script       | Description                            |
 | ------------ | ------------------- | -------------------------------------- |
 | III. A.      | [Dataset](/Dataset)  | Dataset to trainning and test          |
-| III. B.      | [ANN-SkelUnet](/SkelUnet-OSS)        | SkelUnet neuronal network architecture |
+| III. B.      | [ANN-SkelUnet](/ANN-SkelUnet)        | SkelUnet neuronal network architecture |
 | III. C.      | [SkelUnet-OSS](/SkelUnet-OSS)        | SkelUnet One-Shot-Sampling methodology |
-| III. C.      | Navigatio Metrics   | Benchmarking navigation metrics        |
-| IV. D        | MedialAxis          | Medial Axis comparation                |
+| III. C.      | [Navigatio Metrics](/Metrics)   | Benchmarking navigation metrics        |
+| IV. D        | [MedialAxis](/MedialAxis)          | Medial Axis comparation                |
