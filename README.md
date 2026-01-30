@@ -8,7 +8,7 @@ Gabriel Omar Flores-Aquino, Octavio Gutierrez-Frias, Juan Irving Vasquez
 
 -Conda (anaconda o miniconda)  
 -Installation of PyTorch with GPU for training SkelUent
-## INSTRUCTION 
+## INSTRUCTIONS 
   
 1.- Clone conda environment.    
 2.- Unzip the folders.  
